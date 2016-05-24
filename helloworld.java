@@ -1,2 +1,2 @@
 hello world!
-merge from branch1
+branch1
